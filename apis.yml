@@ -1,0 +1,32 @@
+aid: kimiquotes
+name: kimiquotes
+description: "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen"
+url: https://kimiquotes.herokuapp.com/doc
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: kimiquotes
+    description: "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen"
+    humanURL: https://kimiquotes.herokuapp.com/doc
+    baseURL: https://kimiquotes.herokuapp.com/doc
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: https://kimiquotes.herokuapp.com/doc
+common:
+  - type: Website
+    url: https://kimiquotes.herokuapp.com/doc
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

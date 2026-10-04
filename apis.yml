@@ -39,7 +39,6 @@ apis:
   - name: kimiquotes
     description: "Team radio and interview quotes by Finnish F1 legend Kimi Räikkönen"
     humanURL: https://kimiquotes.herokuapp.com/doc
-    baseURL: https://kimiquotes.herokuapp.com/doc
     tags:
       - Personality
     properties:

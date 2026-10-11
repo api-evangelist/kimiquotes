@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "kimiquotes",
+    "captured_at": "2026-10-11T190853",
+    "source_url": "https://kimiquotes.herokuapp.com/doc",
+    "source_type": "Website",
+    "file": "kimiquotes-2026-10-11T190853.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
